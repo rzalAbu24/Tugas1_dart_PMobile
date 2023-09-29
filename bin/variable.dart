@@ -4,6 +4,9 @@ late String nama;
 
 void main () {
 
+  // Tanpa variabel
+  print("Nama saya Abu Rizal");
+
   // Deklarasi Variable Tidak Langsung
   String namaPanggilan;
   namaPanggilan = 'Rizal';
