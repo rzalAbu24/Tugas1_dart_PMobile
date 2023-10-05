@@ -1,0 +1,4 @@
+// Membuat Class
+class MahasiswaStmik {
+  
+}
