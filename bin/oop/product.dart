@@ -1,4 +1,4 @@
-// Access Modifier
+// Export for Access Modifier ,To String
 
 class Product {
   String? id;
@@ -7,5 +7,9 @@ class Product {
 
   int? getQuantity() {
     return _quantity;
+  }
+
+  String toString() {
+    return 'Produk {id : $id, nama: $nama, quantity: $_quantity}';
   }
 }
