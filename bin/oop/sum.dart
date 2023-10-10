@@ -1,4 +1,4 @@
-// Export for Callable Class
+// Export for Callable Class , typedef
 
 class Sum {
   int pertama;
@@ -8,3 +8,6 @@ class Sum {
 
   int call() => pertama + kedua;
 }
+
+typedef Total = Sum;
+typedef Jumlah = Sum;
