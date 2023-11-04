@@ -8,7 +8,7 @@ void main() {
   stack.addLast("Abu Rizal");
 
   print(stack.removeLast());
-  print(stack.removeLast());
+  // print(stack.removeLast());
   // print(stack.removeLast());
   print(stack);
 }
